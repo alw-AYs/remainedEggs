@@ -1,6 +1,63 @@
 /*
 * @Author: alw-AYs
 * @Date:   2015-11-18 12:33:20
-* @Last Modified by:   alw-AYs
-* @Last Modified time: 2015-11-18 12:33:21
+* @Last Modified by:   yaosichen
+* @Last Modified time: 2015-12-11 12:03:45
 */
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html,
+body
+{
+    font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;
+
+    width: 100%;
+    height: 100%;
+
+    background-color: #cf282f;
+}
+.wrapper
+{
+    position: relative;
+
+    overflow: hidden;
+
+    width: 100%;
+    height: 100%;
+}
+#stage
+{
+    width: 100%;
+    height: 100%;
+}
+@font-face {
+  font-family: 'rainyhearts';
+  src: url('../fonts/rainyhearts_min.eot'),
+  url('../fonts/rainyhearts_min.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/rainyhearts_min.woff') format('woff'),
+       url('../fonts/rainyhearts_min.ttf') format('truetype'),
+       url('../fonts/rainyhearts_min.svg#rainyhearts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#countdown
+{
+    font-family: 'rainyhearts';
+    font-size:128px;
+    color: #FFFFFF;
+    width: 184px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 32px;
+    padding-right: 48px;
+    -webkit-transform-origin:top right;
+    -ms-transform-origin:top right;
+    transform-origin:top right;
+}

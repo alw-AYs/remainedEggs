@@ -1,0 +1,11 @@
+java -jar sfnttool.jar  -s 0123456789 Arial_Rounded_Bold.ttf Arial_Rounded_Bold_min.ttf
+
+java -jar sfnttool.jar  -s 0123456789% Impact.ttf Impact_min.ttf
+
+
+																	
+
+java -jar sfnttool.jar  -s baiduxong FZMWFont.ttf FZMWFont_min.ttf
+
+
+java -jar sfnttool.jar  -s 0123456:789 rainyhearts.ttf rainyhearts_min.ttf
