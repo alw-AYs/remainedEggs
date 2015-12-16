@@ -8,4 +8,4 @@ java -jar sfnttool.jar  -s 0123456789% Impact.ttf Impact_min.ttf
 java -jar sfnttool.jar  -s baiduxong FZMWFont.ttf FZMWFont_min.ttf
 
 
-java -jar sfnttool.jar  -s 0123456:7%89 rainyhearts.ttf rainyhearts_min.ttf
+java -jar sfnttool.jar  -s 0123456:789 rainyhearts.ttf rainyhearts_min.ttf
