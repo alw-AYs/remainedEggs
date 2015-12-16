@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150715 at Fri Dec 11 04:41:52 2015
- By Jimmy Wärting
+Created by FontForge 20141024 at Mon Dec 14 09:38:27 2015
+ By Jimmy Warting
 camellina
 </metadata>
 <defs>
@@ -16,15 +16,18 @@ camellina
     panose-1="2 0 6 3 0 0 0 0 0 0"
     ascent="768"
     descent="-256"
-    bbox="0 0 384 682"
+    bbox="0 0 640 682"
     underline-thickness="51"
-    underline-position="-153"
-    unicode-range="U+0030-003A"
+    underline-position="-103"
+    unicode-range="U+0025-003A"
   />
 <missing-glyph horiz-adv-x="374" 
 d="M34 0v682h272v-682h-272zM68 34h204v614h-204v-614z" />
     <glyph glyph-name=".notdef" horiz-adv-x="374" 
 d="M34 0v682h272v-682h-272zM68 34h204v614h-204v-614z" />
+    <glyph glyph-name="percent" unicode="%" horiz-adv-x="704" 
+d="M128 0v64h64v-64h-64zM512 64h64v-64h-64h-64v64h64zM576 64v64v64h64v-64v-64h-64zM448 64h-64v64v64h64v-64v-64zM192 64v64v64h64v-64v-64h-64zM576 192h-64h-64v64h64h64v-64zM256 192v64v64h64v-64v-64h-64zM320 320v64v64h64v-64v-64h-64zM128 384h64v-64h-64h-64
+v64h64zM192 384v64v64h64v-64v-64h-64zM64 384h-64v64v64h64v-64v-64zM384 448v64h64v-64h-64zM192 512h-64h-64v64h64h64v-64z" />
     <glyph glyph-name="zero" unicode="0" 
 d="M256 64h64v-64h-64h-64h-64v64h64h64zM320 64v64v64v64v64v64v64v64h64v-64v-64v-64v-64v-64v-64v-64h-64zM128 64h-64v64v64v64v64v64v64v64h64v-64v-64v-64v-64v-64v-64v-64zM320 512h-64h-64h-64v64h64h64h64v-64z" />
     <glyph glyph-name="one" unicode="1" horiz-adv-x="320" 
